@@ -58,6 +58,6 @@ Copyright © 2020 | All rights reserved | ReachMe
 ## Architecture
 
 ![Screenshot](./images/wireframe.png)
-![Screenshot](./images/wireframe.png)
+
 
 
