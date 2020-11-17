@@ -22,10 +22,6 @@ A user can sign-in, add an image & caption, follow their friends, see their post
 
 ![Logo](client/public/images/reachme_logo.png)
 
-## Main Page
-
-![Screenshot](client/public/images/main_page.png)
-
 ## Features
 
 - Login/Logout feature
